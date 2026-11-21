@@ -1,0 +1,16 @@
+{
+  "name": "LuckyMind AI",
+  "short_name": "LuckyMind",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#071b16",
+  "theme_color": "#103b2b",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
